@@ -1,0 +1,77 @@
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.exe.config
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.exe
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.pdb
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csprojAssemblyReference.cache
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.Properties.Resources.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.GenerateResource.cache
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.CoreCompileInputs.cache
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.exe
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.pdb
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ConfirmationScreen.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.DOBSearch.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ErrorScreen.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ModeSelection.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NameSearch.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NHSSearch.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.QRScanner.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.WelcomeScreen.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ChangeApp.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.Keyboard.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.LanguageSelect.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NumberKeypad.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.HelpScreen.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.AdminSettings.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.CleaningModeScreen.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.dll
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.dll
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.dll
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.xml
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.xml
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.xml
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.CopyComplete
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.CleaningModeActivated.resources
+C:\Users\SDuck\Documents\University\Univeristy of Salford\1st Year\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.AppointmentOptions.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.exe.config
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.exe
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\MedicalCheckInSystem.pdb
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.dll
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.dll
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.dll
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.presentation.dll
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.xml
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.xml
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.xml
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\bin\Debug\zxing.presentation.xml
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csprojAssemblyReference.cache
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.AdminSettings.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.AppointmentOptions.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ChangeApp.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.CleaningModeActivated.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.CleaningModeScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ConfirmationScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.DOBSearch.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ErrorScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.HelpScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.Keyboard.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.LanguageSelect.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.ModeSelection.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NameSearch.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NHSSearch.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.NumberKeypad.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.QRScanner.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.WelcomeScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.Properties.Resources.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.GenerateResource.cache
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.CoreCompileInputs.cache
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.csproj.CopyComplete
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.exe
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.pdb
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.CancellationConfirmation.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.WelshScreen.resources
+C:\Users\SDuck\Documents\University\SalfordUni\1stYear\Web Development & HCI\HCI (Semester 2)\Assignment\MedicalCheckInSystem\obj\Debug\MedicalCheckInSystem.AppChangeConf.resources
