@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F767E95A-EB63-4EE9-9DA6-3F287EE284EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MedicalCheckInSystem</RootNamespace>
+    <AssemblyName>MedicalCheckInSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.6\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.6\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSettings.Designer.cs">
+      <DependentUpon>AdminSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppChangeConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppChangeConf.Designer.cs">
+      <DependentUpon>AppChangeConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppointmentOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppointmentOptions.Designer.cs">
+      <DependentUpon>AppointmentOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancellationConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancellationConfirmation.Designer.cs">
+      <DependentUpon>CancellationConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeApp.Designer.cs">
+      <DependentUpon>ChangeApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CleaningModeActivated.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CleaningModeActivated.Designer.cs">
+      <DependentUpon>CleaningModeActivated.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CleaningModeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CleaningModeScreen.Designer.cs">
+      <DependentUpon>CleaningModeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmationScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfirmationScreen.Designer.cs">
+      <DependentUpon>ConfirmationScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DOBSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOBSearch.Designer.cs">
+      <DependentUpon>DOBSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorScreen.Designer.cs">
+      <DependentUpon>ErrorScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpScreen.Designer.cs">
+      <DependentUpon>HelpScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Keyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Keyboard.Designer.cs">
+      <DependentUpon>Keyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LanguageSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LanguageSelect.Designer.cs">
+      <DependentUpon>LanguageSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModeSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModeSelection.Designer.cs">
+      <DependentUpon>ModeSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NameSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameSearch.Designer.cs">
+      <DependentUpon>NameSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NHSSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NHSSearch.Designer.cs">
+      <DependentUpon>NHSSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumberKeypad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberKeypad.Designer.cs">
+      <DependentUpon>NumberKeypad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QRScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QRScanner.Designer.cs">
+      <DependentUpon>QRScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeScreen.Designer.cs">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WelshScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelshScreen.Designer.cs">
+      <DependentUpon>WelshScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminSettings.resx">
+      <DependentUpon>AdminSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppChangeConf.resx">
+      <DependentUpon>AppChangeConf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppointmentOptions.resx">
+      <DependentUpon>AppointmentOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancellationConfirmation.resx">
+      <DependentUpon>CancellationConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeApp.resx">
+      <DependentUpon>ChangeApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CleaningModeActivated.resx">
+      <DependentUpon>CleaningModeActivated.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CleaningModeScreen.resx">
+      <DependentUpon>CleaningModeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfirmationScreen.resx">
+      <DependentUpon>ConfirmationScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DOBSearch.resx">
+      <DependentUpon>DOBSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorScreen.resx">
+      <DependentUpon>ErrorScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpScreen.resx">
+      <DependentUpon>HelpScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Keyboard.resx">
+      <DependentUpon>Keyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LanguageSelect.resx">
+      <DependentUpon>LanguageSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModeSelection.resx">
+      <DependentUpon>ModeSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameSearch.resx">
+      <DependentUpon>NameSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NHSSearch.resx">
+      <DependentUpon>NHSSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberKeypad.resx">
+      <DependentUpon>NumberKeypad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QRScanner.resx">
+      <DependentUpon>QRScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeScreen.resx">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="WelshScreen.resx">
+      <DependentUpon>WelshScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
